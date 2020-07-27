@@ -118,3 +118,4 @@ fi
 
 #Aliases 
 alias gpom='git push origin master'
+alias alu='apt list --upgradeable'
